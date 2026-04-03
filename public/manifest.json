@@ -1,9 +1,9 @@
 {
 "name": "Service to delivery",
 "short_name": "This a web app does on method a PWA",
-"start_url": "The URL that should be loaded when your application is opened",
+"start_url": "/app.vue",
 "display": "standalone",
-"description": "A description for your application",
+"description": "This a project does wich my team to delivery for deliveryman",
 "lang": " The default language of your application",
 "dir": "auto",
 "theme_color": "#000000",
