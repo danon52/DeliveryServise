@@ -11,3 +11,13 @@ generator client {
 datasource db {
   provider = "sqlite"
 }
+
+model Product {
+  id Int @id @default(autoincrement())
+
+
+  photoUrl    String
+  title       String
+  composition String
+  price       Int
+}
